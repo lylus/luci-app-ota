@@ -1,6 +1,6 @@
 #!/bin/sh
 # author jjm2473
-URL_BASE=https://github.com/yuwentao114/Actions-OpenWrt/releases
+URL_BASE=https://github.com/yuwentao114/Actions-OpenWrt/releases/latest
 WRLOCK=/var/lock/ota_background.lock
 
 action=${1}
